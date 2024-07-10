@@ -25,9 +25,9 @@ https://www.tg4.ie/en/player/categories/drama-tv-shows/?series=Ros%20na%20R%C3%B
 
 ### Example:
 Input:
-08:57.280 --> 09:00.200
-Cruinniú clainne
-faoi cheann 10 nóiméad.
+\n08:57.280 --> 09:00.200
+\nCruinniú clainne
+\nfaoi cheann 10 nóiméad.
 
 09:05.240 --> 09:07.280
 Bhuel, dá gcloisfeá í.
